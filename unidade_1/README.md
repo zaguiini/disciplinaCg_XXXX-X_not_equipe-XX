@@ -2,7 +2,9 @@
 
 Local para postar a atividade da unidade 1.  
 
-## [Assunto](Assunto.pdf "Assunto")  
+## [Assunto](assunto.pdf "Assunto")  
+
+## [Slides](slides.pdf "Slides")  
 
 ## Avaliação
 
