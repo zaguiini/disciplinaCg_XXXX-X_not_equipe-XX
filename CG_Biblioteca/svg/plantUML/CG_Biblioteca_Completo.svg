@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="229px" preserveAspectRatio="none" style="width:404px;height:229px;background:#000000;" version="1.1" viewBox="0 0 404 229" width="404px" zoomAndPan="magnify"><defs/><g><rect fill="#1E0C23" height="1" style="stroke:#1E0C23;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="116" x="5" y="17">PlantUML 1.2022.5</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="31.1328"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="380" x="5" y="45.2656">&lt;b&gt;This version of PlantUML is 118 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="59.3984">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.4883" style="stroke:#33FF02;stroke-width:1.0;" width="378" x="5" y="69.5313"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="156" x="6" y="84.5313">[From string (line 6) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="105.0195"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="254" x="5" y="121.5078">@startuml CG_Biblioteca_Completo</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="137.9961"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="378" x="5" y="154.4844">title Diagrama de Classes - CG_Biblioteca Completo</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="314" x="5" y="170.9727">footer Grupo GCG - [[http://gcg.inf.furb.br]]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="187.4609"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="318" x="5" y="203.9492">!include PlantUML/CG_Biblioteca/BBox.puml</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="367" x="10" y="220.4375">cannot include PlantUML/CG_Biblioteca/BBox.puml</text><!--MD5=[5816b9a5514dc55bab1115b06330c973]
+
+@startuml CG_Biblioteca_Completo
+
+title Diagrama de Classes - CG_Biblioteca Completo
+footer Grupo GCG - [[http://gcg.inf.furb.br]]
+
+!include PlantUML/CG_Biblioteca/BBox.puml
+
+PlantUML version 1.2022.5(Sat Apr 30 07:55:52 BRT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: BR
+--></g></svg>

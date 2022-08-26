@@ -7,7 +7,7 @@
 namespace CG_Biblioteca
 {
   /// <summary>
-  /// Classe que define um ponto no espaço 3D com a coordenada homogênea (w) da Transformação Geometrica
+  /// Classe que define um ponto no espaço 3D com a coordenada homogênea (w) da Transformação Geométrica
   /// </summary>
   public class Ponto4D
   {
@@ -49,7 +49,7 @@ namespace CG_Biblioteca
     /// </example>
     public static Ponto4D operator +(Ponto4D pto1, Ponto4D pto2) => new Ponto4D(pto1.X + pto2.X, pto1.Y + pto2.Y, pto1.Z + pto2.Z);
 
-    //TODO: a sobreescreção do operador + funciona mais o - ou -- não
+    //TODO: a sobrescrição do operador + funciona mais o - ou -- não
     // public static Ponto4D operator -(Ponto4D pto) => new Ponto4D(-pto.X, -pto.Y, -pto.Z);
 
     //TODO: Testar estas funções e ver se precisam existir
@@ -67,17 +67,17 @@ namespace CG_Biblioteca
     /// <summary>
     /// Obter e atribuir a coordenada y
     /// </summary>
-    /// <value>coordeanda y</value>
+    /// <value>coordenada y</value>
     public double Y { get => y; set => y = value; }
     /// <summary>
     /// Obter e atribuir a coordenada z
     /// </summary>
-    /// <value>coordeanda z</value>
+    /// <value>coordenada z</value>
     public double Z { get => z; set => z = value; }
     /// <summary>
     /// Obter e atribuir a coordenada homogênea w
     /// </summary>
-    /// <value>coordeanda w</value>
+    /// <value>coordenada w</value>
     public double W { get => w; }
 
 #if CG_Debug
