@@ -1,8 +1,10 @@
 # Computação Gráfica
 
 Atividades desenvolvidas na disciplina de Computação Gráfica na FURB/DSC/BCC.  
-
 Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.  
+
+Alunos:  
+Assunto:  
 
 ## [Atividades da Unidade 1](unidade_1 "Atividades da Unidade 1")  
 
